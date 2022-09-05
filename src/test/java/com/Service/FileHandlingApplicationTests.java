@@ -1,4 +1,4 @@
-package com.Ebook.Service;
+package com.Service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
